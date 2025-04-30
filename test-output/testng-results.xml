@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="10" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-28T21:57:46 AST" name="Default suite" finished-at="2025-04-28T21:58:18 AST" duration-ms="31419">
+    <groups>
+    </groups>
+    <test started-at="2025-04-28T21:57:46 AST" name="Default test" finished-at="2025-04-28T21:58:18 AST" duration-ms="31419">
+      <class name="xyz_bank.testCases">
+        <test-method is-config="true" signature="setup()[pri:0, instance:xyz_bank.testCases@7103cb56]" started-at="2025-04-28T21:57:46 AST" name="setup" finished-at="2025-04-28T21:57:48 AST" duration-ms="1576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="managerLogin()[pri:7, instance:xyz_bank.testCases@7103cb56]" started-at="2025-04-28T21:57:48 AST" name="managerLogin" finished-at="2025-04-28T21:57:51 AST" duration-ms="3232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- managerLogin -->
+        <test-method signature="addCustomer()[pri:8, instance:xyz_bank.testCases@7103cb56]" started-at="2025-04-28T21:57:51 AST" name="addCustomer" finished-at="2025-04-28T21:58:00 AST" duration-ms="8508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+        <test-method signature="addAccount()[pri:9, instance:xyz_bank.testCases@7103cb56]" started-at="2025-04-28T21:58:00 AST" name="addAccount" finished-at="2025-04-28T21:58:11 AST" duration-ms="11059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAccount -->
+        <test-method signature="deleteCustomer()[pri:10, instance:xyz_bank.testCases@7103cb56]" started-at="2025-04-28T21:58:11 AST" name="deleteCustomer" finished-at="2025-04-28T21:58:18 AST" duration-ms="6943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomer -->
+      </class> <!-- xyz_bank.testCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
